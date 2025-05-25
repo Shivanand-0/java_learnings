@@ -1,4 +1,4 @@
-class Code{
+class Recursion{
  // Printing number in decrinsing order
     public static void decNum(int n){
         if(n==1){
